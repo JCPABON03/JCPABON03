@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 Soy un estudiante de ingieneria de sistemas
-
-- 🎓 &nbsp; Actualmente soy estudiante de Ingenieria de sistemas de la Universidad de Pamplona.
  
 
 <h2>SKILLS</h2>
