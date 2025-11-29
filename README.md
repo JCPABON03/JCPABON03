@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HOLA.</h1>
 <span align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=Soy+Juanca)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=Soy+Juan+Carlos)](https://git.io/typing-svg)
 <span/>
 <div style="height: 50px;"></div>
 
