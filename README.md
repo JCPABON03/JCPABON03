@@ -21,8 +21,6 @@
 Soy un ingeniero de sistemas apasionado por construir productos web completos, desde el modelado de la base de datos hasta el despliegue en producción. Me enfoco en escribir código limpio, tomar decisiones de arquitectura sólidas y resolver problemas reales de forma autónoma.
 
 - 🔭 Actualmente construyendo una **plataforma SaaS de menús digitales** (multi-tenant, FastAPI + React + PostgreSQL)
-- 🌱 Profundizando en programación paralela y distribuida con **OpenMP y MPI**
-- 🚀 Desplegando en **Railway** y **Vercel**
 - 💡 Interesado en arquitecturas de software, APIs REST y experiencia de usuario
 
 ---
