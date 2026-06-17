@@ -37,7 +37,7 @@ Soy un ingeniero de sistemas apasionado por construir productos web completos, d
 | **Backend** | FastAPI, REST APIs, JWT |
 | **Base de datos** | PostgreSQL, Modelado relacional |
 | **DevOps** | Git, GitHub, Vercel, Railway, Cloudinary |
-| **Otros** | C (OpenMP, MPI), Python, SQL |
+| **Otros** | Python, SQL |
 
 ---
 
@@ -50,7 +50,7 @@ Soy un ingeniero de sistemas apasionado por construir productos web completos, d
 - Autenticación segura con JWT y rutas protegidas en frontend y backend
 - Panel multi-tenant con gestión de categorías, productos y personalización visual por restaurante
 - Integración con **Cloudinary** para almacenamiento y optimización de imágenes en la nube
-- Desplegado en **Railway** (backend) y **Vercel** (frontend)
+- Desplegado en **Render** (backend) y **Vercel** (frontend)
 
 ### 💼 Portafolio Personal
 > Sitio web personal construido con React, Vite y CSS Modules.
