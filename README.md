@@ -34,7 +34,7 @@ Soy un ingeniero de sistemas apasionado por construir productos web completos, d
 | Área | Tecnologías |
 |------|------------|
 | **Frontend** | React, Vite, CSS Modules, Diseño Responsivo |
-| **Backend** | FastAPI, REST APIs, JWT / Auth, Manejo de sesiones |
+| **Backend** | FastAPI, REST APIs, JWT |
 | **Base de datos** | PostgreSQL, Modelado relacional |
 | **DevOps** | Git, GitHub, Vercel, Railway, Cloudinary |
 | **Otros** | C (OpenMP, MPI), Python, SQL |
