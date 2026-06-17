@@ -1,37 +1,92 @@
+<div align="center">
 
-<!---
-JCPABON03/JCPABON03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HOLA.</h1>
-<span align="center">
+# Hola, soy Juan Carlos 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=Soy+Juan+Carlos)](https://git.io/typing-svg)
-<span/>
-<div style="height: 50px;"></div>
+### Ingeniero de Sistemas · Full Stack Developer
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+*Último semestre en Universidad de Pamplona, Colombia*
 
-Soy un estudiante de ingieneria de sistemas
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&width=500&lines=Full+Stack+Developer;FastAPI+%2B+React+%2B+PostgreSQL;Construyo+software+end-to-end)](https://git.io/typing-svg)
 
-<h2>SKILLS</h2>
-<!--Languages and Tools Section-->       
-<h3 align="center">Lenguajes y Herramientas</h3> 
+[![Portfolio](https://img.shields.io/badge/Portafolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-juan-carlos-pabon.vercel.app)
+[![Email](https://img.shields.io/badge/Email-1B2A4A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcpabon03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCPABON03)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy un ingeniero de sistemas apasionado por construir productos web completos, desde el modelado de la base de datos hasta el despliegue en producción. Me enfoco en escribir código limpio, tomar decisiones de arquitectura sólidas y resolver problemas reales de forma autónoma.
+
+- 🔭 Actualmente construyendo una **plataforma SaaS de menús digitales** (multi-tenant, FastAPI + React + PostgreSQL)
+- 🌱 Profundizando en programación paralela y distribuida con **OpenMP y MPI**
+- 🚀 Desplegando en **Railway** y **Vercel**
+- 💡 Interesado en arquitecturas de software, APIs REST y experiencia de usuario
+
+---
+
+## 🛠 Stack Tecnológico
+
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,postgres,git,vscode,linux&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,fastapi,postgres,git,github,vercel,linux,vscode&perline=7" />
 </p>
-<br />
 
- <!-- Connect with me -->
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h3 style="display: inline-block">Como Contactarme🤝</h3></summary>
-    </ul>
-  <!--icons and links-->
-  <p align="left">
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-  </p>
-  </div>
+| Área | Tecnologías |
+|------|------------|
+| **Frontend** | React, Vite, CSS Modules, Diseño Responsivo |
+| **Backend** | FastAPI, REST APIs, JWT / Auth, Manejo de sesiones |
+| **Base de datos** | PostgreSQL, Modelado relacional |
+| **DevOps** | Git, GitHub, Vercel, Railway, Cloudinary |
+| **Otros** | C (OpenMP, MPI), Python, SQL |
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🍽 Plataforma SaaS de Menús Digitales
+> Sistema web multi-tenant para restaurantes con panel de administración completo.
+
+- Arquitectura completa: modelo relacional en PostgreSQL, API REST con FastAPI y SPA en React
+- Autenticación segura con JWT y rutas protegidas en frontend y backend
+- Panel multi-tenant con gestión de categorías, productos y personalización visual por restaurante
+- Integración con **Cloudinary** para almacenamiento y optimización de imágenes en la nube
+- Desplegado en **Railway** (backend) y **Vercel** (frontend)
+
+### 💼 Portafolio Personal
+> Sitio web personal construido con React, Vite y CSS Modules.
+
+- Sistema de diseño propio con CSS custom properties y modo oscuro
+- Sección de Skills con tarjetas de iconos categorizadas
+- Componente `ImageSlider` con transiciones automáticas e indicadores interactivos
+- Desplegado en Vercel → [ver portafolio](https://portafolio-juan-carlos-pabon.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JCPABON03&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCPABON03&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:jcpabon03@gmail.com">
+    <img src="https://img.shields.io/badge/jcpabon03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://portafolio-juan-carlos-pabon.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <sub>📍 Pamplona, Colombia · Disponible para trabajo remoto</sub>
+</div>
