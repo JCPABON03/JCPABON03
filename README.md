@@ -86,5 +86,5 @@ Soy un ingeniero de sistemas apasionado por construir productos web completos, d
 </p>
 
 <div align="center">
-  <sub>📍 Pamplona, Colombia · Disponible para trabajo remoto</sub>
+  <sub>📍 Pamplona, Colombia · Disponible para trabajo remoto o presencial · Disponible para viajar </sub>
 </div>
